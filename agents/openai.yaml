@@ -1,0 +1,6 @@
+interface:
+  display_name: "Swarm Architect"
+  short_description: "Build and test adaptive multi-agent Codex swarms"
+  default_prompt: "Use $swarm-architect to choose, test, and run the best bounded multi-agent topology for this task, comparing it with a single-agent baseline."
+policy:
+  allow_implicit_invocation: true
